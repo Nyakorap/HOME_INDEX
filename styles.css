@@ -14,9 +14,9 @@
 }
 
 .welcome a:hover {
-    link: hide:
-    background-color: #f0e68c;
-    color: #5ab2fa;
+    link: hide;
+   background-color: #f0e68c;
+   color: #5ab2fa;
     border-color: #999;
 }
 * {
